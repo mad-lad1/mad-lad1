@@ -1,4 +1,8 @@
-# Greetings!
+# Greetings! I am Mostafa
+Grokking LLMs
+![Visitor Count](https : //profile-counter.glitch.me/mad-lad1/count.svg)
+
+
 <!--
 **mad-lad1/mad-lad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
