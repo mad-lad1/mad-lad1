@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Greetings! I'm Mostafa 👋">
-</p>
+# Greetings!
 <!--
 **mad-lad1/mad-lad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
