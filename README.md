@@ -1,4 +1,4 @@
-# Greetings! I am Mostafa
+# Greetings! I am Mostafa 🙋🏽‍♂️
 ![Visitor Count](https://profile-counter.glitch.me/mad-lad1/count.svg)
 
 ### 🚀 Grokking the intersection of LLMs, Computer Vision, and Distributed Systems
