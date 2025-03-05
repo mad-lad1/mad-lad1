@@ -4,7 +4,7 @@
 
 I'm fascinated by the convergence of machine intelligence and real-world applications. 
 
-### My Philosophy:
+### Philosophy:
 ```python
 while True:
     learn_something_new()
